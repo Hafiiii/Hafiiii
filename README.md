@@ -1,7 +1,7 @@
-- 👋 Hey I’m Hafizah.
+- 👋 I’m Hafizah.
 - 👀 Currently a software engineering student.
-- 🌱 Still a beginner in coding but eager to learn more.
-- 👾 Languages I have discovered: C, C++, C#, HTML/CSS, JavaScript, Python
+- 🌱 Interested in web development, game development and others too.
+- 👾 Languages I have discovered: C, C++, C#, HTML/CSS, JavaScript, Python, Java
 - 📫 Can reach me through my email & Linkedin | hafizah.rmli@gmail.com | linkedin.com/in/nur-hafizah-ramli-140180609806091401
 
 <!---
