@@ -1,7 +1,10 @@
 - 👋 I’m Hafizah.
 - 👀 Currently a software engineering student.
 - 🌱 Interested in web development, cybersecurity and others too.
-- 📫 Can reach me through my email & Linkedin | hafizah.rmli@gmail.com | https://www.linkedin.com/in/nur-hafizah-ramli-140180609806091401/
+
+- 📫 Can reach me through my email & Linkedin<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="Email" src="https://img.shields.io/badge/Email-white.svg?&style=for-the-badge&logo=Gmail&logoColor=red" />](hafizah.rmli@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/nur-hafizah-ramli-140180609806091401/)
 
 <!---
 Hafiiii/Hafiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
